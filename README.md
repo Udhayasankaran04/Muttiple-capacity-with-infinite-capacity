@@ -20,7 +20,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![239796810-1d35f4d1-3104-44f4-8c5c-269d611eaee2](https://github.com/user-attachments/assets/02e95d4c-0652-4bb7-9011-a444450fb834)
 ![239796837-13d30585-0c48-4b29-be60-57aa39e77fbf](https://github.com/user-attachments/assets/3adba92e-2558-4fbf-908d-9dcecc63cb60)
 
-## Program
+## Program:
 ## NAME: UDHAYA SANKARAN M
 ## REG NO: 212222110051
 ```
